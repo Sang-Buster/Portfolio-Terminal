@@ -1,29 +1,23 @@
-# [💻 LiveTerm - build terminal styled websites in minutes!](https://liveterm.vercel.app)
+<div align="center">
 
-Highly customizable, easy-to-use, and minimal terminal styled website template, powered by Next.js.
+<h1>Discord-Portofolio-Terminal</h1>
 
-Building a simple website with LiveTerm only takes **minutes**, and you only need to work with **one** file: `config.json`. After you cloned this repository, simply run `yarn install && yarn dev` and start editing `config.json` to build your website!
+<h6>A Terminal Style Portofolio Wbsite Template with Discord Theme</h6>
 
-LiveTerm can be used to build a variety of websites:
+<a href="https://discord-portofolio-card.vercel.app/" _target="blank">
+<img src="README.assets/Web_Preview.png" alt="Web_Preview"/>
+</a>
 
-- [personal website](https://cveinnt.com)
-- [browser startpage](https://livetermstart.vercel.app/)
-- [project page](https://liveterm.vercel.app/)
-- or maybe just a cool browser music player...be creative!
+[![](https://img.shields.io/badge/Demo%20Preview-0d1117?style=for-the-badge&logoColor=white)](https://discord-portofolio-card.vercel.app/)
 
-Feel free to play with the web demo above!
+---
 
-## 📸 Showcase
+<p>Discord Color Palette</p>
 
-<p align="center">
-<img src="./demo/demo.gif" width="600"><br>
-<strong>LiveTerm with different themes</strong>
-</p>
+<img src="README.assets/Discord_Color_Palette.png" alt="Discord_Color_Palette"/>
 
-<p align="center">
-<img src="./demo/cveinnt.png" width="600"><br>
-<strong><a href="https://cveinnt.com" target=_blank>my personal website</a></strong>
-</p>
+</div>
+
 
 ## 🚀 Ship your LiveTerm site in less than 5 minutes
 
