@@ -3,7 +3,7 @@
 <h1>Discord-Portofolio-Terminal</h1>
 
 <h6>A Terminal Style Portofolio Wbsite Template with Discord Theme</h6>
-
+</br>
 <a href="https://discord-portofolio-terminal.vercel.app/" _target="blank">
 <img src="README.assets/Web_Preview.png" alt="Web_Preview"/>
 </a>
