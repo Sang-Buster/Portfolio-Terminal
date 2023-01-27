@@ -4,11 +4,11 @@
 
 <h6>A Terminal Style Portofolio Wbsite Template with Discord Theme</h6>
 
-<a href="https://discord-portofolio-card.vercel.app/" _target="blank">
+<a href="https://discord-portofolio-terminal.vercel.app/" _target="blank">
 <img src="README.assets/Web_Preview.png" alt="Web_Preview"/>
 </a>
 
-[![](https://img.shields.io/badge/Demo%20Preview-0d1117?style=for-the-badge&logoColor=white)](https://discord-portofolio-card.vercel.app/)
+[![](https://img.shields.io/badge/Demo%20Preview-0d1117?style=for-the-badge&logoColor=white)](https://discord-portofolio-terminal.vercel.app/)
 
 ---
 
