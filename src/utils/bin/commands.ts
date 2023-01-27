@@ -30,8 +30,7 @@ export const about = async (args: string[]): Promise<string> => {
 Welcome to my portfolio website in terminal style with discord theme!
 More about me:
 [sumfetch] - short summary.
-[resume] - my latest resume.
-[readme] - my github readme.`;
+[resume] - my latest resume.`;
 };
 
 export const resume = async (args: string[]): Promise<string> => {
