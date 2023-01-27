@@ -11,9 +11,6 @@
 [![](https://img.shields.io/badge/Demo%20Preview-0d1117?style=for-the-badge&logoColor=white)](https://discord-portofolio-terminal.vercel.app/)
 
 <img src="README.assets/Discord_Color_Palette.png" alt="Discord_Color_Palette"/>
-
-<p>Discord Color Palette</p>
-
 </div>
 
 
