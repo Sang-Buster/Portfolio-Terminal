@@ -1,0 +1,34 @@
+{
+  "title": "Discord-Portfolio-Terminal",
+  "name": "Sing Song",
+  "ascii": "Discord-Portfolio",
+  "social": {
+    "github": "Sang-Buster",
+    "linkedin": "linkedin"
+  },
+  "email": "hello@singsongaftermath.com",
+  "ps1_hostname": "SingSong",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/Sang-Buster/Discord-Portfolio-Terminal",
+  "resume_url": "https://cv.singsongaftermath.com",
+  "colors": {
+    "light": {
+      "background": "#FFFFFF",
+      "foreground": "#23272A",
+      "yellow": "#7289DA",
+      "green": "#2ECC71",
+      "gray": "#95A5A6",
+      "blue": "#FFFF00",
+      "red": "#E74C3C"
+    },
+    "dark": {
+      "background": "#23272A",
+      "foreground": "#FFFFFF",
+      "yellow": "#7289DA",
+      "green": "#2ECC71",
+      "gray": "#95A5A6",
+      "blue": "#FFFF00",
+      "red": "#E74C3C"
+    }
+  }
+}
