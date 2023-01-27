@@ -19,25 +19,11 @@
 </div>
 
 
-## 🚀 Ship your LiveTerm site in less than 5 minutes
+## 🚀 Set-up
 
-LiveTerm requires the `yarn` package manager. You can install `yarn` [here](https://classic.yarnpkg.com/lang/en/docs/install/).
+Discord-Portfolio-Terminal requires the `yarn` package manager. You can install `yarn` [here](https://classic.yarnpkg.com/lang/en/docs/install/).
 
-Simply run the following commmand in your terminal:
-
-```bash
-sh -c "$(curl -fsSL https://raw.github.com/Cveinnt/LiveTerm/main/install/install.sh)"
-```
-
-This will install LiveTerm to the current directory. You can start building your website with:
-
-```bash
-cd LiveTerm && yarn dev
-```
-
-Start editing `config.json` and try saving and see the updated changes!
-
-Alternatively, you can clone this repository to a location of your choosing
+Clone this repository to a location of your choosing
 
 ```bash
 git clone https://github.com/Cveinnt/LiveTerm.git && cd LiveTerm
@@ -64,7 +50,7 @@ Learn more about Docker [here](https://docs.docker.com/get-started/overview/ 'he
 
 ### Basic Configuration
 
-90% of LiveTerm's configurations are done through the `config.json` file.
+90% of Discord-Portfolio-Terminal's configurations are done through the `config.json` file.
 
 ```javascript
 {
@@ -77,7 +63,7 @@ Learn more about Docker [here](https://docs.docker.com/get-started/overview/ 'he
     "linkedin": // your handle
   },
   "email": // your email
-  "ps1_hostname": "liveterm" // hostname in prompt
+  "ps1_hostname": "SingSong" // hostname in prompt
   "ps1_username": "visitor", // username in prompt
   "resume_url": "../resume.pdf", // path to your resume
   "non_terminal_url": "W",
@@ -122,4 +108,5 @@ You can also connect your github account to vercel and have vercel automatically
 
 ## Credit
 
-Based on M4TT72's awesome [Terminal](https://github.com/m4tt72/terminal).
+Based on M4TT72's [Terminal](https://github.com/m4tt72/terminal).
+Forked under Cveinnt's [LiveTerm](https://github.com/Cveinnt/LiveTerm)
