@@ -26,7 +26,7 @@ Discord-Portfolio-Terminal requires the `yarn` package manager. You can install 
 Clone this repository to a location of your choosing
 
 ```bash
-git clone https://github.com/Cveinnt/LiveTerm.git && cd LiveTerm
+git clone https://github.com/Sang-Buster/Discord-Portfolio-Terminal.git && cd Discord-Portofolio-Terminal
 ```
 
 Then install dependencies and start developing there:
@@ -108,6 +108,4 @@ You can also connect your github account to vercel and have vercel automatically
 
 ## Credit
 
-Based on M4TT72's [Terminal](https://github.com/m4tt72/terminal)
-
-Forked under Cveinnt's [LiveTerm](https://github.com/Cveinnt/LiveTerm)
+Based on M4TT72's [Terminal](https://github.com/m4tt72/terminal) and Cveinnt's [LiveTerm](https://github.com/Cveinnt/LiveTerm)
