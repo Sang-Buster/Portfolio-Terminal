@@ -108,5 +108,6 @@ You can also connect your github account to vercel and have vercel automatically
 
 ## Credit
 
-Based on M4TT72's [Terminal](https://github.com/m4tt72/terminal).
+Based on M4TT72's [Terminal](https://github.com/m4tt72/terminal)
+
 Forked under Cveinnt's [LiveTerm](https://github.com/Cveinnt/LiveTerm)
