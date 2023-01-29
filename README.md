@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Discord-Portofolio-Terminal</h1>
+<h1>Portofolio-Terminal</h1>
 
 <h6>A Terminal Style Portofolio Wbsite Template with Discord Theme</h6>
 
