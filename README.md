@@ -4,7 +4,7 @@
 
 <h6>A Terminal Style Portofolio Wbsite Template with Discord Theme</h6>
 
-<a href="https://discord-portfolio-terminal.vercel.app/" _target="blank">
+<a href="https://portfolio-terminal-sang-buster.vercel.app/" _target="blank">
 <img src="README.assets/Web_Preview.png" alt="Web_Preview"/>
 </a>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 Set-up
 
-Discord-Portfolio-Terminal requires the `yarn` package manager. You can install `yarn` [here](https://classic.yarnpkg.com/lang/en/docs/install/).
+Portfolio-Terminal requires the `yarn` package manager. You can install `yarn` [here](https://classic.yarnpkg.com/lang/en/docs/install/).
 
 Clone this repository to a location of your choice
 
@@ -45,7 +45,7 @@ Learn more about Docker [here](https://docs.docker.com/get-started/overview/ 'he
 
 ### Basic Configuration
 
-90% of Discord-Portfolio-Terminal's configurations are done through the `config.json` file.
+90% of Portfolio-Terminal's configurations are done through the `config.json` file.
 
 ```javascript
 {
