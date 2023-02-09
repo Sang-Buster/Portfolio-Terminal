@@ -21,7 +21,7 @@ Discord-Portfolio-Terminal requires the `yarn` package manager. You can install 
 Clone this repository to a location of your choosing
 
 ```bash
-git clone https://github.com/Sang-Buster/Discord-Portfolio-Terminal.git && cd Discord-Portofolio-Terminal
+git clone https://github.com/Sang-Buster/Portfolio-Terminal.git && cd Portofolio-Terminal
 ```
 
 Then install dependencies and start developing there:
