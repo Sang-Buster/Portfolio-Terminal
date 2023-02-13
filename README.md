@@ -21,7 +21,7 @@ Portfolio-Terminal requires the `yarn` package manager. You can install `yarn` [
 Clone this repository to a location of your choice
 
 ```bash
-git clone https://github.com/Sang-Buster/Portfolio-Terminal.git && cd Portofolio-Terminal
+git clone https://github.com/Sang-Buster/Portfolio-Terminal.git && cd Portfolio-Terminal
 ```
 
 Then install dependencies and start developing there:
