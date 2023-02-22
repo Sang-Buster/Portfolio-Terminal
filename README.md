@@ -2,7 +2,7 @@
 
 <h1>Portofolio-Terminal</h1>
 
-<h6>A Terminal Style Portofolio Wbsite Template with Discord Theme</h6>
+<h6>A Terminal Style Portofolio Static Wbsite Template with Discord Theme</h6>
 
 <a href="https://portfolio-terminal-sang-buster.vercel.app/" _target="blank">
 <img src="README.assets/Web_Preview.png" alt="Web_Preview"/>
