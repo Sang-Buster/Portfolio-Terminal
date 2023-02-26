@@ -19,6 +19,7 @@ You can find several pre-configured themes in `themes.json`, and you can replace
   - Dracula
   - Nord
   - One-Dark
+  - One-Light
   - Monokai
   - Mocha
   - Solarized
