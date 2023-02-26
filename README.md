@@ -13,6 +13,17 @@
 <img src="README.assets/Discord_Color_Palette.png" alt="Discord_Color_Palette"/>
 </div>
 
+You can find several pre-configured themes in `themes.json`, and you can replace the colors in `config.json` with the theme color you like! The themes are based on the themes on [this website](https://glitchbone.github.io/vscode-base16-term/#/). Other included themes:
+  - Default
+  - Gruvbox
+  - Dracula
+  - Nord
+  - One-Dark
+  - Monokai
+  - Mocha
+  - Solarized
+  - Paraiso
+
 
 ## 🚀 Set-up
 
@@ -74,12 +85,6 @@ Learn more about Docker [here](https://docs.docker.com/get-started/overview/ 'he
 ```
 
 Feel free to change it as you see fit!
-
-### Themes
-
-You can find several pre-configured themes in `themes.json`, and you can replace the colors in `config.json` with the theme color you like! The themes are based on the themes on [this website](https://glitchbone.github.io/vscode-base16-term/#/).
-
-For a better preview of the themes, checkout the images in the `demo` folder.
 
 ### Favicons
 
