@@ -18,8 +18,7 @@ You can find several pre-configured themes in `themes.json`, and you can replace
   - Gruvbox
   - Dracula
   - Nord
-  - One-Dark
-  - One-Light
+  - One-Dark/Light
   - Monokai
   - Mocha
   - Solarized
