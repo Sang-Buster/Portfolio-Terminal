@@ -13,7 +13,7 @@
 <img src="README.assets/Discord_Color_Palette.png" alt="Discord_Color_Palette"/>
 </div>
 
-You can find several pre-configured themes in `themes.json`, and you can replace the colors in `config.json` with the theme color you like! The themes are based on the themes on [this website](https://glitchbone.github.io/vscode-base16-term/#/). Other included themes:
+You can find several pre-configured themes in `themes.json`, and you can replace the colors in `config.json` with the theme color you like! Themes are based on [this website](https://glitchbone.github.io/vscode-base16-term/#/). Other included themes:
   - Default
   - Gruvbox
   - Dracula
